@@ -1,0 +1,17 @@
+{
+    "name": "haptics.liu-xiao-guo",
+    "description": "description of Haptics",
+    "architecture": "all",
+    "title": "Haptics",
+    "hooks": {
+        "Haptics": {
+            "apparmor": "Haptics.apparmor",
+            "desktop":  "Haptics.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

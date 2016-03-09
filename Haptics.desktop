@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Haptics
+Exec=qmlscene $@ Main.qml
+Icon=Haptics.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
